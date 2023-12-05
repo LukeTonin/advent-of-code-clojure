@@ -106,11 +106,7 @@ ENV/
 .idea/
 
 # ignore everything in the following folders
-data
 logs
-
-# ignore parquet files
-*.parquet
 
 # also keep all .gitkeep files
 !.gitkeep
